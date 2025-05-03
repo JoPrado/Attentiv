@@ -34,7 +34,7 @@ As remote work becomes a standard across industries, measuring productivity effe
 > Requires Python 3.8+ and a webcam
 
 ```bash
-git clone https://github.com/your-org/attentiv.git
+git clone https://github.com/JoPrado/attentiv.git
 cd attentiv
 pip install -r requirements.txt
 ```
