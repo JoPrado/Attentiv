@@ -1,0 +1,8 @@
+
+--- Attention Report ---
+Date: 2025-04-28 02:34:26
+Total frames analyzed: 1256
+Attentive frames: 413 (32.88%)
+Drowsy frames: 365 (29.06%)
+No Face Detected frames: 478
+Face Errors: 0
