@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ---
 
-##Training the Model
+## Training the Model
 
 To train the CNN model on the dataset:
 
@@ -53,7 +53,7 @@ python train_model.py
 
 ---
 
-##Running the Attention Detection
+## Running the Attention Detection
 
 Once the model is trained (or if you're using a pre-trained one):
 
@@ -65,7 +65,7 @@ python deploy_model.py
 
 ---
 
-##Project Structure
+## Project Structure
 
 ```bash
 attentiv/
